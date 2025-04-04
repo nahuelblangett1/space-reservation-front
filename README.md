@@ -1,7 +1,3 @@
-# Space Reservation Front
-
-Hola TOTS, se le puso amor a todo el proyecto en general, espero que les guste!
-
 ## Descripción
 
 Este proyecto es una aplicación de reservas de espacio desarrollada con Angular.
